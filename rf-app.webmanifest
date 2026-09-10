@@ -1,0 +1,23 @@
+{
+  "name": "ReflexWahr",
+  "short_name": "ReflexWahr",
+  "description": "Umfangreiches Nachschlagewerk zu Fuß-, Hand- und Ohrreflexzonenmassage, Massage-Grundlagen, Glossar und Suche — inkl. Bonus-Feature Handlinien-Scan.",
+  "start_url": "./rf-index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EEF1F8",
+  "theme_color": "#0B4F49",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "rf-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "rf-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

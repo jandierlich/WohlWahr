@@ -1,0 +1,23 @@
+{
+  "name": "WohlWahr",
+  "short_name": "WohlWahr",
+  "description": "Gemeinsame Startseite für ReflexWahr und NarzissmusWahr.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EEF1F8",
+  "theme_color": "#0B4F49",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
